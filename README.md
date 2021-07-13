@@ -1,4 +1,4 @@
-# Chapter18: Topic-Modeling
+# Chapter 18: Topic-Modeling
 ## http://www.datascience-in-tourism.com/
 
 ***Author***
