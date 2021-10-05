@@ -1,8 +1,10 @@
-# Chapter 18: Topic-Modeling
+# Chapter 18: Topic Modeling
+
+## Modelling hidden semantic structures in textual data
 ## http://www.datascience-in-tourism.com/
 
-***Author***
-Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
+***Roman Egger***
+* Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
 ![paris.jpg](https://github.com/DataScience-in-Tourism/Chapter-18-Topic-Modeling/blob/main/data/paris.jpg)
 
